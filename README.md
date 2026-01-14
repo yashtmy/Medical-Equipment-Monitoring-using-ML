@@ -23,8 +23,3 @@ equipment reliability, safety, and predictive maintenance using data-driven meth
 2. Exploratory Data Analysis (EDA)
 3. Model training and evaluation
 4. Prediction and recommendation generation
-
-## Relevance to Internship
-This project aligns with production DX and AI-based monitoring systems by
-demonstrating data analysis, machine learning, and problem-solving skills
-applicable to real-world industrial and medical environments.
