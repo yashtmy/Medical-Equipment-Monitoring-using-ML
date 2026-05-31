@@ -1,5 +1,9 @@
 # Medical Equipment Monitoring using Machine Learning
-
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1PtyYtjjduS__V2Ni2NNHhfPpwB2FxcBz?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
 ## Project Overview
 This project uses machine learning techniques to analyze medical equipment data
 and predict abnormal or unhealthy operating conditions. The goal is to improve
